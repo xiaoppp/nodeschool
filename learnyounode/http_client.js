@@ -1,6 +1,6 @@
 // reference: https://nodejs.org/dist/latest-v5.x/docs/api/http.html
 
-'use strict'
+'use strict';
 const http = require('http');
 const url = process.argv[2];
 
