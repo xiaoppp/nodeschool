@@ -8,7 +8,7 @@
 // 	}
 // }
 
-// this is the resurise version
+// this is the recursive version
 function repeat(operation, num) {
 	if (num <= 0) return;
 
