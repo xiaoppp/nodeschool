@@ -17,7 +17,7 @@ In my opinion, you 'd better write all codes with the latest standard.
 
 Note:
 -------
-Some priciples,
+Some notice,
 
 1. Make sure you have delete all console.log when you run learnyounode verify, since it will disturb nodeschool to judge your program when contains other console.log...
-2. Using original code in almost situations than third-party packages.
+2. Suggest to using native code better than third-party packages.
